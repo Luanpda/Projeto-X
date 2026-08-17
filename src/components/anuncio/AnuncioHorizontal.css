@@ -1,0 +1,25 @@
+.imgAnuncio{
+    height: 130px;
+}
+
+.anuncio{
+    display: flex;
+    gap:10px;
+    background-color: white;
+    max-width: 350px;
+    padding: 5px;
+
+    margin: 20px;
+}
+
+.descricao h2{
+    font-size: 14px;
+}
+
+.descricao p{
+    
+
+}
+.frete-gratis{
+    color: var(--success);
+}
